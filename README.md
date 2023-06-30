@@ -1,5 +1,131 @@
-<link href="style.css" rel="stylesheet"></link>
+<!-- <link href="style.css" rel="stylesheet"></link> -->
 
+<style>
+    :root {
+    font-family: poppins;
+    font-size: 16px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid #161c26;
+    width: 100%;
+    margin-bottom: 1.875rem;
+}
+
+.header-container img {
+    width: 50%;
+}
+
+.gif-container {
+    margin-bottom: 1.25rem;
+}
+
+.gif {
+    width: 18rem;
+}
+
+.links-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 0.625rem;
+}
+
+.links-container a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.16rem 0.5rem;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 1px;
+    font-size: 0.75rem;
+    font-weight: 700;
+}
+
+.links-container .linkedin {
+    background-color: #0077b5;
+}
+
+.links-container .gmail {
+    background-color: #c71610;
+}
+
+.links-container .discord {
+    background-color: #7289da;
+}
+
+.links-container a svg {
+    width: 0.9rem;
+    height: 0.9rem;
+    margin-right: 0.3125rem;
+}
+
+.skills {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 0.9rem;
+    margin: 2.5rem 0 0 0;
+}
+
+.skills-container {
+    width: 100%;
+}
+
+.skills-container .title {
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+
+.skills-container .icons {
+    display: flex;
+}
+
+.status {
+    display: grid;
+    grid-template-columns: 7fr 3fr;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 0.4rem;
+    width: 75%;
+    margin: 2rem 0 0 0;
+}
+
+.status .streak {
+    grid-area: 1/1/2/2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.status .state {
+    grid-area: 2/1/3/2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.status .language {
+    grid-area: 1/2/3/3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: inherit;
+}
+</style>
 
 <div class="container">
 <div class="header-container">
@@ -54,7 +180,6 @@ https://drive.google.com/file/d/1BKxSblZ90u6Qfwp1rpORTCpeSt6HZyVc/view?usp=drive
 </div>
 </div>
 
-
 <div class="status">
 <a href="https://git.io/typing-svg" class="streak"><img src="https://streak-stats.demolab.com?user=AbdelrahmanEmbaby&background=0d1117&stroke=2f80ed&ring=2f80ed&fire=2f80ed&currStreakLabel=2f80ed&currStreakNum=fff&sideLabels=2f80ed&sideNums=fff&dates=fff&hide_border=true" alt="Typing SVG" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats" class="state">
@@ -65,20 +190,3 @@ https://drive.google.com/file/d/1BKxSblZ90u6Qfwp1rpORTCpeSt6HZyVc/view?usp=drive
 </a>
 </div>
 </div>
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanEmbaby&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!--
-**AbdelrahmanEmbaby/AbdelrahmanEmbaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
