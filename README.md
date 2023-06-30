@@ -1,4 +1,4 @@
-<div class="container" style="font-family: poppins;display: flex;flex-direction: column;justify-content: center;align-items: center;width: 100%;">
+<div class="container" style="font-family: poppins;display: flex;flex-direction: column;justify-content: center;align-items: center;width: 100%;" align="center">
 <div class="header-container" style="display: flex;align-items: center;justify-content: center;border-bottom: 1px solid #161c26;width: 100%;margin-bottom: 1.875rem;">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Abdelrahman+Embaby.+👋🏽;A+fresh+grad+frontend+developer.+👨🏽‍🎓;With+a+bachelor+degree+in+CS.+👨🏽‍💻;Nice+to+meet+you!+👾" alt="Typing SVG" style="width: 50%;"/>
 </div>
