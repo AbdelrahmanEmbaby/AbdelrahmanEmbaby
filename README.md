@@ -18,7 +18,7 @@
 <a href="https://discord.com/users/640866116255612938" class="discord"><img src="./discord.svg" width="30px"/></a>
 </div>
 
-<img height="20px"/>
+<img height="10px"/>
 
 <div class="skills">
 
@@ -31,7 +31,7 @@
     </p>
 </div>
 
-<img height="20px"/>
+<img height="10px"/>
 
 ## **Interested in learning**
 <img height="10px"/>
@@ -42,7 +42,7 @@
     </p>
 </div>
 
-<img height="20px"/>
+<img height="10px"/>
 
 ## **For the market ( prefer not to learn 😂👎🏽)**
 <img height="10px"/>
