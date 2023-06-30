@@ -23,7 +23,7 @@
 <div class="skills">
 
 ## **Skills & technologies**
-<img height="20px"/>
+<img height="10px"/>
 
 <div class="skills-container learned">
     <p class="icons">
@@ -34,7 +34,7 @@
 <img height="20px"/>
 
 ## **Interested in learning**
-<img height="20px"/>
+<img height="10px"/>
 
 <div class="skills-container learning">
     <p class="icons">
@@ -45,7 +45,7 @@
 <img height="20px"/>
 
 ## **For the market ( prefer not to learn 😂👎🏽)**
-<img height="20px"/>
+<img height="10px"/>
 
 <div class="skills-container market">
     <p class="icons">
