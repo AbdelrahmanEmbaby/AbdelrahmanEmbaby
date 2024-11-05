@@ -14,7 +14,7 @@
 
 <div class="links-container" align="center">
 <a href="https://www.linkedin.com/in/abdelrahman-embaby-237938224" class="linkedin"><img src="./linkedin.svg" width="30px"/></a>
-<a href="mailto:0b7o4u6d3y@gmail.com?subject=Please be a job offer 🙃" class="gmail" ><img src="./gmail.svg" width="30px"/></a>
+<a href="mailto:abdelrahmanembaby63@gmail.com?subject=Please be a job offer 🙃" class="gmail" ><img src="./gmail.svg" width="30px"/></a>
 <a href="https://discord.com/users/640866116255612938" class="discord"><img src="./discord.svg" width="30px"/></a>
 </div>
 
