@@ -57,14 +57,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanEmbaby&layout=donut-vertical&bg_color=0d1117&title_color=fff&text_color=fff&icon_color=0094B9&hide_border=true" height="390px"/>
 </a></td>
   </tr>
-  <tr height="191.5px">
+<!--   <tr height="191.5px">
     <td width="450px" height="191.5px">
         
         
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanEmbaby&show_icons=true&include_all_commits=true&text_bold=false&bg_color=0d1117&text_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
-  </tr>
+  </tr> -->
 </thead>
 </table>
 </div>
