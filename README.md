@@ -1,6 +1,7 @@
 <div class="container">
 <div class="header-container" align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Abdelrahman+Embaby.+👋🏽;A+fresh+grad+frontend+developer.+👨🏽‍🎓;With+a+bachelor+degree+in+CS.+👨🏽‍💻;Nice+to+meet+you!+👾" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=My+name+
+is+Abdelrahman+Embaby.+👋🏽;A+software+engineer.+👨🏽‍💻;With+a+bachelor+degree+in+CS+and+statistics.+👨🏽‍🎓;Nice+meeting+you!+👾" alt="Typing SVG"/>
 </div>
 
 <img height="20px"/>
@@ -27,7 +28,7 @@
 
 <div class="skills-container learned">
     <p class="icons">
-        <img src="https://skillicons.dev/icons?i=react,js,html,css,java,xd,git,github,vscode" />
+        <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,mongodb,vite,ts,js,html,css,tailwind,bootstrap,java,c,cpp,php,py,xd,figma,git,github,vscode" />
     </p>
 </div>
 
@@ -38,20 +39,10 @@
 
 <div class="skills-container learning">
     <p class="icons">
-        <img src="https://skillicons.dev/icons?i=sass,angular,vue,vite,materialui,threejs,nextjs,ts,nodejs,express,fastapi,firebase,mongodb,bash,linux,figma" />
+        <img src="https://skillicons.dev/icons?i=sass,vue,materialui,threejs,nextjs,fastapi,firebase" />
     </p>
 </div>
 
-<img height="10px"/>
-
-## **For the market ( prefer not to learn 😂👎🏽)**
-<img height="10px"/>
-
-<div class="skills-container market">
-    <p class="icons">
-        <img src="https://skillicons.dev/icons?i=redux,bootstrap,tailwind,php,py,pytorch" />
-    </p>
-</div>
 </div>
 
 <img height="20px"/>
@@ -67,6 +58,7 @@
   <tr height="191.5px">
     <td width="450px" height="191.5px"><a href="https://github.com/anuraghazra/github-readme-stats" class="state" width="450px" height="191.5px">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanEmbaby&show_icons=true&include_all_commits=true&text_bold=false&bg_color=0d1117&text_color=fff&hide_border=true" width="450px" height="191.5px"/>
+        
 </a></td>
   </tr>
 </thead>
