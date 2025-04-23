@@ -52,10 +52,14 @@
 <table class="tg" align="center" border="0">
 <thead height="383px">
   <tr height="191.5px">
-    <td width="450px" height="191.5px"><a href="https://git.io/typing-svg" class="streak" width="450px" height="191.5px"><img src="https://streak-stats.demolab.com?user=AbdelrahmanEmbaby&background=0d1117&stroke=2f80ed&ring=2f80ed&fire=2f80ed&currStreakLabel=2f80ed&currStreakNum=fff&sideLabels=2f80ed&sideNums=fff&dates=fff&hide_border=true" alt="Typing SVG" width="450px" height="191.5px"/></a></td>
-    <td rowspan="2"><a href="https://github.com/anuraghazra/convoychat" class="language">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanEmbaby&layout=donut-vertical&bg_color=0d1117&title_color=fff&text_color=fff&icon_color=0094B9&hide_border=true" height="390px"/>
-</a></td>
+<td width="450px" height="191.5px">
+    
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbdelrahmanEmbaby&theme=github-dark&hide_border=true&background=0D1117&stroke=2F80ED&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&currStreakNum=FFFFFF&sideLabels=2F80ED&sideNums=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)        
+</td>
+    <td rowspan="2">
+        
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanEmbaby&layout=donut-vertical&bg_color=0d1117&title_color=fff&text_color=fff&icon_color=0094B9&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  </td>
   </tr>
 <!--   <tr height="191.5px">
     <td width="450px" height="191.5px">
