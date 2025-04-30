@@ -29,7 +29,7 @@
 
 <div class="skills-container learned">
     <p class="icons">
-        <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,mongodb,vite,ts,js,html,css,tailwind,bootstrap,java,c,cpp,php,py,xd,figma,git,github,vscode" />
+        <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,nestjs,mongodb,mysql,php,laravel,vite,ts,js,html,css,tailwind,bootstrap,java,c,cpp,py,linux,bash,git,github,vscode" />
     </p>
 </div>
 
